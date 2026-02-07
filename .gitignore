@@ -1,0 +1,11 @@
+# Python junk
+__pycache__/
+*.py[cod]
+venv/
+.env
+funds.db
+
+# Node.js junk
+node_modules/
+dist/
+.DS_Store
